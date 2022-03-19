@@ -5,6 +5,7 @@ gsm = true
 cluster_name = "pluto"
 # cluster_location = "asia-south2"
 apex_domain = "binomy.io"
+subdomain = "pluto"
 
 lets_encrypt_production = true
 tls_email               = "tech@binomy.io"
